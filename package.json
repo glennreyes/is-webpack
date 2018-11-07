@@ -1,0 +1,9 @@
+{
+  "name": "@glennreyes/is-webpack",
+  "version": "1.0.0",
+  "description": "Simple check if code is running through webpack",
+  "main": "index.js",
+  "repository": "https://github.com/glennreyes/is-webpack.git",
+  "author": "Glenn Reyes <glenn@glennreyes.com>",
+  "license": "MIT"
+}
